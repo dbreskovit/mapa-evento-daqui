@@ -47,7 +47,7 @@ const Index = () => {
             21 A 23 NOVEMBRO 2025
           </p>
           <p className="text-muted-foreground text-sm sm:text-base">
-            Centro de Tenente Portela
+            Centro de Tenente Portela / RS
           </p>
         </div>
 
